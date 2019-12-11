@@ -1,0 +1,28 @@
+{
+  "name": "dotenv-schema",
+  "version": "0.1.0",
+  "description": "extend dotenv to support defaults, types and nesting",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dsinisa/dotenv-schema.git"
+  },
+  "keywords": [
+    "dotenv",
+    "schema",
+    "config",
+    "configuration",
+    "env"
+  ],
+  "author": "Dr. Sinisa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dsinisa/dotenv-schema/issues"
+  },
+  "homepage": "https://github.com/dsinisa/dotenv-schema#readme",
+  "dependencies": {
+  }
+}
