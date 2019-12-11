@@ -1,6 +1,6 @@
 {
   "name": "dotenv-schema",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "extend dotenv to support defaults, types and nesting",
   "main": "index.js",
   "scripts": {

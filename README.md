@@ -11,6 +11,8 @@ Note that this module does not modify process.env in any way. It parses process.
 
 ```javascript
 
+require('dotenv').config();
+
 configSchemaTest = {
   test1: 'aaa', // simple string value. if there is TEST1 environment variable, it will get that value instead
   test2: 1, // Numbers are parsed from .env
